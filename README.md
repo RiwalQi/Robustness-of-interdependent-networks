@@ -1,7 +1,7 @@
-## Code of “Positive and negative effects of hidden information on the robustness of interdependent networks”
-# Overview
+# Code of “Positive and negative effects of hidden information on the robustness of interdependent networks”
+## Overview
 This is the code for the paper “Positive and negative effects of hidden information on the robustness of interdependent networks”. Here we show the simulation code for the critical experiments and results in this paper. The main function for each experiment is shown below. Note that our code applies to the version of MATLAB 2020b.
-# Main Files
+## Main Files
 exp_er_uncorrelated.m
 Running this code will produce the variation of S with p for interlayer uncorrelated ER networks.
 
